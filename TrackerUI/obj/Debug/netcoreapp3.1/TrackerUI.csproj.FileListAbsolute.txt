@@ -1,0 +1,60 @@
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.exe
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.dll.config
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.deps.json
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.runtimeconfig.json
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.runtimeconfig.dev.json
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.pdb
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.pdb
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csprojAssemblyReference.cache
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\CreatePrizeForm.CreatePrizeForm.resources
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\CreateTeamForm.createTeamForm.resources
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\CreateTournamentForm.CreateTournamentForm.resources
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TournamentDashboardForm.tournamentDashboardForm.resources
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.TournamentDashboardForm.resources
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.GenerateResource.cache
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.AssemblyInfoInputs.cache
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.AssemblyInfo.cs
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.CopyComplete
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.pdb
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.genruntimeconfig.cache
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.exe
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.dll.config
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.deps.json
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.runtimeconfig.json
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.runtimeconfig.dev.json
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.dll
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\TrackerUI.pdb
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.dll
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\bin\Debug\netcoreapp3.1\TrackerLibrary.pdb
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csprojAssemblyReference.cache
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\CreatePrizeForm.CreatePrizeForm.resources
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\CreateTeamForm.createTeamForm.resources
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\CreateTournamentForm.CreateTournamentForm.resources
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\TournamentDashboardForm.tournamentDashboardForm.resources
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.TournamentDashboardForm.resources
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.GenerateResource.cache
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.AssemblyInfoInputs.cache
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.AssemblyInfo.cs
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.csproj.CopyComplete
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.dll
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.pdb
+C:\Users\panze\source\repos\Learning\Tournament\TrackerUI\obj\Debug\netcoreapp3.1\TrackerUI.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\bin\Debug\netcoreapp3.1\CreatePrizeForm.exe
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\bin\Debug\netcoreapp3.1\CreatePrizeForm.deps.json
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\bin\Debug\netcoreapp3.1\CreatePrizeForm.runtimeconfig.json
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\bin\Debug\netcoreapp3.1\CreatePrizeForm.runtimeconfig.dev.json
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\bin\Debug\netcoreapp3.1\CreatePrizeForm.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\bin\Debug\netcoreapp3.1\CreatePrizeForm.pdb
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\obj\Debug\netcoreapp3.1\CreatePrizeForm.csprojAssemblyReference.cache
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\obj\Debug\netcoreapp3.1\CreatePrizeForm.CreatePrizeForm.resources
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\obj\Debug\netcoreapp3.1\CreatePrizeForm.csproj.GenerateResource.cache
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\obj\Debug\netcoreapp3.1\CreatePrizeForm.AssemblyInfoInputs.cache
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\obj\Debug\netcoreapp3.1\CreatePrizeForm.AssemblyInfo.cs
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\obj\Debug\netcoreapp3.1\CreatePrizeForm.csproj.CoreCompileInputs.cache
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\obj\Debug\netcoreapp3.1\CreatePrizeForm.dll
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\obj\Debug\netcoreapp3.1\CreatePrizeForm.pdb
+C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\CreatePrizeForm\obj\Debug\netcoreapp3.1\CreatePrizeForm.genruntimeconfig.cache
