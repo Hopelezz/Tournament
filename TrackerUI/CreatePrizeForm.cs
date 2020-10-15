@@ -13,71 +13,68 @@ namespace CreatePrizeForm
             InitializeComponent();
         }
 
-        private void createPrizeButton_Click(object sender, EventArgs e)
+        private void CreatePrizeButton_Click(object sender, EventArgs e) //On Create Prize Button Click
         {
-            if (ValidateForm())
+            if (ValidateForm()) 
             {
+                //Submits the information to the modele
                 PrizeModel model = new PrizeModel(
                     placeNumberValue.Text, 
                     placeNameValue.Text, 
                     prizeAmountValue.Text, 
                     prizePercentageValue.Text);
 
-                
-                
-                 GlobalConfig.Connection.CreatePrize(model);
+                GlobalConfig.Connection.CreatePrize(model);
 
-
-                placeNumberValue.Text = "";
-                placeNameValue.Text = "";
-                prizeAmountValue.Text = "0";
-                prizePercentageValue.Text = "0";
-            }
-
-            else
-            {
-                MessageBox.Show("This form has invalid information. Please check it and try again.");
+                    //Clears out fields
+                    placeNumberValue.Text = "";
+                    placeNameValue.Text = "";
+                    prizeAmountValue.Text = "0";
+                    prizePercentageValue.Text = "0";
             }
         }
 
         private bool ValidateForm()
         {
-            bool output = true;
-            int placeNumber = 0;
-            bool placeNumberValidNumber = int.TryParse(placeNumberValue.Text, out placeNumber);
+            bool output = true; //If all the if-statments clear then output will be true.
+            bool placeNumberValidNumber = int.TryParse(placeNumberValue.Text, out int placeNumber); //int placeNumber = 0;
 
-            if (placeNumberValidNumber == false)
+            if (placeNumberValidNumber == false) //No information entered
             {
+                MessageBox.Show("Not a valid Place Number.");
                 output = false;
             }
 
             if (placeNumber < 1)
             {
+                MessageBox.Show("Not a valid Place Number.");
                 output = false;
             }
             
             if (placeNameValue.Text.Length == 0)
             {
+                MessageBox.Show("Please Enter in a Place Number.");
                 output = false;
             }
 
-            decimal prizeAmount = 0;
-            double prizePercentage = 0;
-            bool prizeAmountValid = decimal.TryParse(prizeAmountValue.Text, out prizeAmount);
-            bool prizePercentValid = double.TryParse(prizePercentageValue.Text, out prizePercentage);
+            bool prizeAmountValid = decimal.TryParse(prizeAmountValue.Text, out decimal prizeAmount);//double prizeAmount= 0; Trys and parses the text into a decimal number.
+            bool prizePercentValid = double.TryParse(prizePercentageValue.Text, out double prizePercentage); //double prizePercentage= 0; Trys and parses the text into a double number.
 
             if (prizeAmountValid == false || prizePercentValid == false)
             {
+                MessageBox.Show("Neither Prize Amount\nor\nPrize Percentage was Filled out");
                 output = false;
             }
 
             if (prizeAmount <=0 && prizePercentage <=0)
             {
+                MessageBox.Show("Neither Prize Amount\nor\nPrize Percentage was Filled out");
                 output = false;
             }
 
             if (prizePercentage < 0 || prizePercentage > 100)
             {
+                MessageBox.Show("Prize Percentage is to High or to Low");
                 output = false;
             }
 

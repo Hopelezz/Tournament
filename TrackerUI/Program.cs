@@ -1,4 +1,5 @@
 using CreatePrizeForm;
+using CreateTeamForm;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,8 +23,8 @@ namespace TrackerUI
             Application.SetCompatibleTextRenderingDefault(false);
 
             //Initialize the database connections
-            TrackerLibrary.GlobalConfig.InitializeConnections(DatabaseType.Sql); //(sql, text)
-            Application.Run(new CreatePrizeForm.CreatePrizeForm());
+            TrackerLibrary.GlobalConfig.InitializeConnections(DatabaseType.TextFile); //(Sql, TextFile)
+            Application.Run(new CreateTeamForm.CreateTeamForm());
 
             //Application.Run(new TournamentDashboardForm());
         }

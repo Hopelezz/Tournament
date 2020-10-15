@@ -10,7 +10,6 @@ C:\Users\panze\source\repos\Learning\Tournament Tracker\TournamentTracker\Tracke
 C:\Users\panze\source\repos\Learning\Tournament\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.deps.json
 C:\Users\panze\source\repos\Learning\Tournament\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.dll
 C:\Users\panze\source\repos\Learning\Tournament\TrackerLibrary\bin\Debug\netstandard2.0\TrackerLibrary.pdb
-C:\Users\panze\source\repos\Learning\Tournament\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csprojAssemblyReference.cache
 C:\Users\panze\source\repos\Learning\Tournament\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfoInputs.cache
 C:\Users\panze\source\repos\Learning\Tournament\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.AssemblyInfo.cs
 C:\Users\panze\source\repos\Learning\Tournament\TrackerLibrary\obj\Debug\netstandard2.0\TrackerLibrary.csproj.CoreCompileInputs.cache
